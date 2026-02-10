@@ -14,3 +14,7 @@ this is where I will show off how to make a portfolio for my students
 
 # this is a second section
 ![Josh portrait](https://github.com/user-attachments/assets/9fc8c702-7c34-45ad-a519-ce7452f582fc)
+
+# this is my cv
+
+[Joshua Aaron Educator Resume Summer 2025.pdf](https://github.com/user-attachments/files/25205639/Joshua.Aaron.Educator.Resume.Summer.2025.pdf)
